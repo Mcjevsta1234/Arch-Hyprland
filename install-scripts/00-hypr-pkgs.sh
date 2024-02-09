@@ -55,11 +55,16 @@ brightnessctl
 btop
 cava
 eog
+cmatrix
+git
+ranger
+discord
+opera
 gnome-system-monitor
-mousepad 
 mpv
 mpv-mpris 
 nvtop
+xorg-xhost
 nwg-look-bin
 pacman-contrib
 vim
